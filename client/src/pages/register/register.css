@@ -1,0 +1,12 @@
+.image-sec {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.image-sec img {
+  border-radius: 50%;
+}

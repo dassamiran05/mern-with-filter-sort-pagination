@@ -1,0 +1,27 @@
+.img_parent {
+  width: 60px;
+  height: 60px;
+}
+.img_parent img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.action {
+  background: none !important;
+  border: none;
+}
+.dropdown-toggle::after {
+  display: none;
+}
+
+.dropdown_btn {
+  background: none !important;
+  border: none;
+}
+
+.dots {
+  font-size: 20px;
+  margin-top: 5px;
+}
